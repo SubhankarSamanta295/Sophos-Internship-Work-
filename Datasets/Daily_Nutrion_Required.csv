@@ -1,0 +1,3 @@
+Gender,Weight,calories,total_fat,cholesterol,saturated_fat,sodium,vitamin_a,vitamin_b12,vitamin_b6,vitamin_c,caffeine,water,zinc,sugars,carbohydrate,protein,fiber,calcium,iron,magnesium
+Male,75,2500,30 g,300 mg,30000 g,2300 mg,0.9 mg,2.4 mg,1.3 mg,90 mg,400 mg,3700 g,11 mg,36 mg,347 g,weight * 0.8,34 g,900 mg,8 mg,410 mg
+Female,60,2200,25 g,300 mg,18000 g,2300 mg,0.7 mg,2.4 mg,1.3 mg,75 mg,400 mg,3000 g,8 mg,24 mg,347 g,weight * 0.8,25 g,900 mg,18 mg,315 mg
